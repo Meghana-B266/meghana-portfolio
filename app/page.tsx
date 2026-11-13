@@ -107,11 +107,11 @@ export default function Home() {
         <div className="expertise-strip">
           <span>MY INTERESTS</span>
           <div>MACHINE LEARNING</div>
-          <i>✳</i>
+          <i>*</i>
           <div>DEEP LEARNING</div>
-          <i>✳</i>
+          <i>*</i>
           <div>GENERATIVE AI</div>
-          <i>✳</i>
+          <i>*</i>
           <div>SOFTWARE DEVELOPMENT</div>
         </div>
 
